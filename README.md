@@ -12,6 +12,8 @@ Douyin and TikTok puzzle captcha resolver with opencv
 
 ## Usage
 
+Note: This library currently supports only 404 px resized screen width. It can be changed optionally in future versions.
+
 ### Start WebServer
     python3 webserver.py
 
