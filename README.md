@@ -1,7 +1,6 @@
 # Puzzle Captcha Resolver
 Douyin and TikTok puzzle captcha resolver with opencv
 
-It's the best until we do :)
 
 #### Dependencies
     opencv2
