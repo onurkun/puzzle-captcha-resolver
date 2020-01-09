@@ -1,0 +1,4 @@
+simplejson
+opencv-python
+Image
+numpy
